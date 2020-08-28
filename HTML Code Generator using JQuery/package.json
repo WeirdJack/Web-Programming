@@ -1,0 +1,32 @@
+{
+  "name": "Project1",
+  "version": "1.0.0",
+  "description": "Programming for the Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "../../node_modules/.bin/webpack-dev-server -d --mode development"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeirdJack/i544.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WeirdJack/i544/issues"
+  },
+  "homepage": "https://github.com/WeirdJack/i544#readme",
+  "devDependencies": {
+    "css-loader": "^3.6.0",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "prj2-sol",
+  "version": "1.0.0",
+  "description": "Name:\t\tBhargav Choudhury B-Number:\tB00817811 Email:\t\tbchoudh4@binghamton.edu",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-promise": "^4.0.0",
+    "mongo": "^0.1.0",
+    "mongodb": "^3.5.9"
+  }
+}
